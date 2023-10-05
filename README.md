@@ -1,7 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Hamza! <br/><a></a> <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BspJFfGvXS6S9jgDeJlJ2qg%3D%3D">Entry level security analyst</a></a></h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+  - [Active Directory Home Lab ]
+
+<h2> 🤳 Connect with me:</h2>
+[<img align="left" alt="Hamza EL Hajraoui | LinkedIn" width="22px" src="https://www.linkedin.com/in/hamza-el-hajraoui"/>][linkedin]
+
+
 
 <!--
-**ELHajraoui/ELHajraoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
